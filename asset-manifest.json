@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://conrad1451.github.io/csb-c4rq1/static/css/main.bd8d7e52.chunk.css",
+    "main.js": "https://conrad1451.github.io/csb-c4rq1/static/js/main.eb3f89cb.chunk.js",
+    "main.js.map": "https://conrad1451.github.io/csb-c4rq1/static/js/main.eb3f89cb.chunk.js.map",
+    "runtime-main.js": "https://conrad1451.github.io/csb-c4rq1/static/js/runtime-main.0b403643.js",
+    "runtime-main.js.map": "https://conrad1451.github.io/csb-c4rq1/static/js/runtime-main.0b403643.js.map",
+    "static/js/2.b6d2e1ca.chunk.js": "https://conrad1451.github.io/csb-c4rq1/static/js/2.b6d2e1ca.chunk.js",
+    "static/js/2.b6d2e1ca.chunk.js.map": "https://conrad1451.github.io/csb-c4rq1/static/js/2.b6d2e1ca.chunk.js.map",
+    "index.html": "https://conrad1451.github.io/csb-c4rq1/index.html",
+    "static/css/main.bd8d7e52.chunk.css.map": "https://conrad1451.github.io/csb-c4rq1/static/css/main.bd8d7e52.chunk.css.map",
+    "static/js/2.b6d2e1ca.chunk.js.LICENSE.txt": "https://conrad1451.github.io/csb-c4rq1/static/js/2.b6d2e1ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b403643.js",
+    "static/js/2.b6d2e1ca.chunk.js",
+    "static/css/main.bd8d7e52.chunk.css",
+    "static/js/main.eb3f89cb.chunk.js"
+  ]
+}
